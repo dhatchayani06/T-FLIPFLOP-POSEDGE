@@ -52,8 +52,8 @@ Qbar=~Q;
 end
 endmodule
 ```
-Developed by : Rithik 
-RegisterNumber:24006064
+Developed by : dhatchayani 
+RegisterNumber: 24007641
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
